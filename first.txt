@@ -3,3 +3,6 @@ Gitの練習を始めていきます
 基本的なワークフローを学びます
 ・git　add
 ・git　commit
+/ss
+
+git diff
